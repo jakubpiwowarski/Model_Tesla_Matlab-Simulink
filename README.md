@@ -11,3 +11,5 @@ This project, developed in Matlab/Simulink, provides a comprehensive learning ex
 - Develop, test, and fine-tune a PID controller tailored to specific requirements, such as maintaining the speed of the Model S (cruise control). 
 
 Through this project, participants will enhance their understanding of electric vehicle systems, modeling techniques, and control strategies, while gaining practical experience in simulation and analysis using Matlab/Simulink.
+
+![Tesla Model](/Tesla_Model1.png) 
