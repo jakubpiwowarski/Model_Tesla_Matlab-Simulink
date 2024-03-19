@@ -1,4 +1,4 @@
-## Electric Vehicle Dynamics and Control Project
+## Electric Vehicle Dynamics and Control Project - Tesla Model S
 
 This project, developed in Matlab/Simulink, provides a comprehensive learning experience in electric vehicle dynamics and control. Participants will:
 
